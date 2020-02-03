@@ -2,7 +2,7 @@
 <p>The purpose of this tutorial is to create a program that takes in the users' name, and greets them using the following controls:  a Label, a TextBox, a ListBox, a Message Box and a Button.  We will also introduce the concept of concatenation.</p>
 
 
-<h2>In this exercise, you will:</h2>
+<h3>In this exercise, you will:</h3>
 <ul>
     <li>Create an algorithm</li>
     <li>Work with adding Controls to a Visual Basic Form</li>
